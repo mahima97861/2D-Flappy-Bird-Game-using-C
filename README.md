@@ -23,8 +23,6 @@ This is a simple Flappy Bird clone developed using the C programming language. T
 3. Run the program:
    ./flappy
 
-## 📷 Output
-(Add your game screenshots here)
 
 ## 🎯 Learning Outcomes
 - Understanding of loops and conditions
