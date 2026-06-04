@@ -3,7 +3,7 @@ A simple Flappy Bird clone developed in C language using console graphics. The g
 # 🐦 Flappy Bird Game in C
 
 ## 📌 Description
-This is a simple Flappy Bird clone developed using the C programming language. The game runs in the console/terminal and demonstrates basic game logic, user input handling, and real-time movement.
+This is a simple Flappy Bird clone developed using the C programming language. The game runs in the console/terminal and demonstrates basic game logic, user input handling, real-time movement.
 
 ## 🎮 Features
 - Bird movement using keyboard input
@@ -31,4 +31,4 @@ This is a simple Flappy Bird clone developed using the C programming language. T
 
 ---
 
-⭐ This project was created as part of my BCA Semester 1 learning.
+⭐ This project was created as part of my BCA Semester 1 learning.(for C concepts)
