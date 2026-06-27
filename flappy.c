@@ -70,7 +70,7 @@ void Draw()
                     strcat(buff, GREEN "]/");
                     goto bottom;
                 }
-                else if
+                else if 
                 (
                     pipes[i].x == x &&
                     (
