@@ -1,6 +1,6 @@
 # 🐦 2D Flappy Bird Game using C
 
-## 📖 Overview
+## 📖 Overviews
 
 **2D Flappy Bird Game** is a console-based recreation of the popular Flappy Bird game developed using the **C Programming Language**. The project demonstrates fundamental game development concepts such as real-time user interaction, obstacle generation, collision detection, score tracking, and game loop implementation.
 
