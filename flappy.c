@@ -16,7 +16,8 @@ typedef struct
 {
     int x;
     int y;
-}PIX;
+}
+PIX;
 
 PIX bird;
 PIX pipes[3];
